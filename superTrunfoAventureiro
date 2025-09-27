@@ -53,7 +53,7 @@ int main(){
         
         //Entrada de dados da carta 2
  
-        printf("\n*********** Cadastro da CARTA 02 **************\nInforme o nome, estado e código diferente da Carta 1\n");
+        printf("\n*********** Cadastro da CARTA 02 **************\nInforme a cidade, o estado e o código diferente da Carta 1\n");
 
          printf("\nDigite o estado 2 (letra de A a H): \n");
         scanf(" %c", &estado2);
